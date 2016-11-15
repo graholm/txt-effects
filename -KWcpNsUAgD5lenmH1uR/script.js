@@ -24,5 +24,5 @@ setInterval(function() {
       letterToFade.animate({opacity: "1"})
     }
   }) 	
-  index = index + 2
+  index = index + 1
 }, 500)
